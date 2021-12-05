@@ -29,7 +29,7 @@
       <div class="right">
         <div class="news">
           <h4>
-            <em class="fl">尚品汇快报</em>
+            <em class="fl">落樱商城快报</em>
             <span class="fr tip">更多 ></span>
           </h4>
           <div class="clearix"></div>

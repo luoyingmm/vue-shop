@@ -4,7 +4,7 @@
     <div class="top">
       <div class="container">
         <div class="loginList">
-          <p>尚品汇欢迎您！</p>
+          <p>落樱商城欢迎您！</p>
           <p>
             <span>请</span>
             <router-link to="/login">登录</router-link>
@@ -14,10 +14,10 @@
         <div class="typeList">
           <a href="###">我的订单</a>
           <a href="###">我的购物车</a>
-          <a href="###">我的尚品汇</a>
-          <a href="###">尚品汇会员</a>
+          <a href="###">我的落樱商城</a>
+          <a href="###">落樱商城会员</a>
           <a href="###">企业采购</a>
-          <a href="###">关注尚品汇</a>
+          <a href="###">关注落樱商城</a>
           <a href="###">合作招商</a>
           <a href="###">商家后台</a>
         </div>
@@ -118,15 +118,15 @@ export default {
 
       .logo {
         img {
-          width: 175px;
-          margin: 25px 45px;
+          width: 75px;
+          margin: 15px 45px;
         }
       }
     }
 
     .searchArea {
       float: right;
-      margin-top: 35px;
+      margin-top: 45px;
 
       .searchForm {
         overflow: hidden;
