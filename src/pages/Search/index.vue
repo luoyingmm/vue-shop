@@ -1,16 +1,14 @@
 <template>
-    <div>
-        <h1>{{$route.params.keyword}}</h1>
-        <h1>{{$route.query.k}}</h1>
-    </div>
+  <div>
+    <typeNav/>
+  </div>
 </template>
 
 <script>
-    export default {
-        
-    }
+export default {
+
+};
 </script>
 
 <style lang="scss" scoped>
-
 </style>
